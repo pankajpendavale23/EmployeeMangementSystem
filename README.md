@@ -1,1 +1,1 @@
-# EmployeeMangementSystem
+# EmployeeMangementSystem using Python Django framework
